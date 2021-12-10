@@ -53,7 +53,7 @@ const Footer = (): JSX.Element => {
         icon: SiLinkedin,
       },
       {
-        url: 'https://discord.com/channels/@me/460188583043530762',
+        url: 'https://discord.com/users/460188583043530762',
         icon: SiDiscord,
       },
     ],
